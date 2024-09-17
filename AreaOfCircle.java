@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class AreaOfCircle {
     public static void main(String[] args) {
         
-        //Area of circle = piR^2
+        //Area of circle = piR*2
 
         final float pi = 3.14f;
 
